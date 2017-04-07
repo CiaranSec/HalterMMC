@@ -1,0 +1,9 @@
+main: com.ciaran.halt
+name: Halt
+version: 1.0
+commands:
+  freeze:
+    usage: Correct usage is /Halt <playername>
+    aliases: [ss]
+permissions:
+  halt.freeze: {}
